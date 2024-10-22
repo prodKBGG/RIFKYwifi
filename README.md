@@ -2,7 +2,7 @@
 RIFKYwifi adalah alternatif WiFiManager yang cepat, ringan, dan bersumber terbuka, cocok untuk pengembang yang ingin mengoptimalkan proyek IoT mereka.
 
 library RIFKYwifi (v1.0) - 
-RIFKYwifi adalah pustaka ringan sumber terbuka yang dirancang untuk menggantikan pustaka WiFiManager yang lebih berat untuk perangkat ESP8266/ESP32. Pustaka ini menyederhanakan proses pengaturan Wi-Fi, membuatnya lebih cepat dan lebih hemat sumber daya, ideal untuk proyek yang memiliki keterbatasan memori dan daya pemrosesan.
+RIFKYwifi adalah pustaka ringan Open Source yang dirancang untuk menggantikan pustaka WiFiManager yang lebih berat untuk perangkat ESP8266/ESP32. Pustaka ini menyederhanakan proses pengaturan Wi-Fi, membuatnya lebih cepat dan lebih hemat sumber daya, ideal untuk proyek yang memiliki keterbatasan memori dan daya pemrosesan.
 
 Mengapa RIFKYwifi?
 Open Source : Tersedia gratis, memungkinkan pengembang untuk menggunakan, memodifikasi, dan berkontribusi pada perpustakaan.
